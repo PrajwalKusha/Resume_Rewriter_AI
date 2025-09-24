@@ -2,6 +2,10 @@
 
 > **Transform your resume for every job opportunity with AI-powered analysis and optimization**
 
+<img width="1613" height="1015" alt="Screenshot 2025-09-24 at 12 21 18 PM" src="https://github.com/user-attachments/assets/dc47ae59-471c-453f-948e-c09fc7161ada" />
+
+<img width="1019" height="1155" alt="Screenshot 2025-09-24 at 12 25 19 PM" src="https://github.com/user-attachments/assets/e120c137-a35a-4373-b216-8303a3050e02" />
+
 ResumeForge is a full-stack AI resume rewriting platform that analyzes job descriptions and creates perfectly tailored resumes using advanced AI agents and LaTeX typesetting.
 
 ## ✨ Features
