@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer**: Prajwal Kusha  
 **Email**: [p.kusha@gwu.edu]  
-**LinkedIn**: [[your-linkedin-profile](https://www.linkedin.com/in/prajwal-kusha/)]
+**LinkedIn**: [[PrajwalKusha](https://www.linkedin.com/in/prajwal-kusha/)]
 
 ---
 
