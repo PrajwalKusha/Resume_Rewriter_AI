@@ -27,6 +27,7 @@ ResumeForge is a full-stack AI resume rewriting platform that analyzes job descr
 - **Preview & Download**: In-browser PDF preview and download functionality
 
 <img width="1461" height="1120" alt="Screenshot 2025-09-24 at 12 46 13 PM" src="https://github.com/user-attachments/assets/3718398d-c5f9-48a2-b903-1501f91fe7e4" />
+<img width="2562" height="1358" alt="Screenshot 2025-09-24 at 12 46 27 PM" src="https://github.com/user-attachments/assets/833bf301-046b-4760-8ee8-08123a95f7a5" />
 
 ### 🎨 **Modern UI/UX**
 - **Dashboard**: Clean job management interface with search and filtering
