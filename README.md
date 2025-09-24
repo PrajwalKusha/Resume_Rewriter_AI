@@ -3,8 +3,7 @@
 > **Transform your resume for every job opportunity with AI-powered analysis and optimization**
 
 <img width="1613" height="1015" alt="Screenshot 2025-09-24 at 12 21 18 PM" src="https://github.com/user-attachments/assets/dc47ae59-471c-453f-948e-c09fc7161ada" />
-
-<img width="1019" height="1155" alt="Screenshot 2025-09-24 at 12 25 19 PM" src="https://github.com/user-attachments/assets/e120c137-a35a-4373-b216-8303a3050e02" />
+<img width="2561" height="676" alt="Screenshot 2025-09-24 at 12 45 52 PM" src="https://github.com/user-attachments/assets/450d4ad2-c186-4b53-aa99-c075e0089c7d" />
 
 ResumeForge is a full-stack AI resume rewriting platform that analyzes job descriptions and creates perfectly tailored resumes using advanced AI agents and LaTeX typesetting.
 
@@ -16,11 +15,17 @@ ResumeForge is a full-stack AI resume rewriting platform that analyzes job descr
 - **Salary & Benefits Parsing**: Extracts compensation ranges and benefit packages
 - **Smart Categorization**: Organizes responsibilities, requirements, and company culture
 
+<img width="1019" height="1155" alt="Screenshot 2025-09-24 at 12 25 19 PM" src="https://github.com/user-attachments/assets/b53e7278-bd52-4ca6-81f9-9196835bf684" />
+<img width="2566" height="1360" alt="Screenshot 2025-09-24 at 12 42 52 PM" src="https://github.com/user-attachments/assets/6dfe1217-c7b0-4119-ae60-159d44ea89d2" />
+
+
 ### 📄 **Resume Management**  
 - **Multi-Format Upload**: Support for PDF, DOCX, and TXT resume files
 - **AI Resume Analysis**: Comprehensive extraction of experience, skills, and achievements
 - **S3 Storage**: Secure cloud storage with user-specific folders
 - **Preview & Download**: In-browser PDF preview and download functionality
+
+<img width="1461" height="1120" alt="Screenshot 2025-09-24 at 12 46 13 PM" src="https://github.com/user-attachments/assets/3718398d-c5f9-48a2-b903-1501f91fe7e4" />
 
 ### 🎨 **Modern UI/UX**
 - **Dashboard**: Clean job management interface with search and filtering
